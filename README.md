@@ -1,2 +1,2 @@
 # RPG-TableBox
-nothing here anyways 
+simple Webapp project for RPG players and master organizations
